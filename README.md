@@ -6,6 +6,6 @@
 
 * Ant Colony Optimization Algorithm
 * ACO applied to the TSP with random nodes generated on the 2d plane and the result is displayed with Matplotlib
-* Unique approach to TSP
+* My own solution for TSP which is in new-approach.py
 
 ![](images/aco.png)
